@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGameWithOption", "FireGameWithOption\FireGameWithOption.csproj", "{2679A7CB-73AA-4430-94E6-705F15A0999E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGameWithOptionTests", "FireGameWithOptionTests\FireGameWithOptionTests.csproj", "{859342D0-82AF-4863-993B-5F84A90A1799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2679A7CB-73AA-4430-94E6-705F15A0999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2679A7CB-73AA-4430-94E6-705F15A0999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2679A7CB-73AA-4430-94E6-705F15A0999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2679A7CB-73AA-4430-94E6-705F15A0999E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859342D0-82AF-4863-993B-5F84A90A1799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859342D0-82AF-4863-993B-5F84A90A1799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859342D0-82AF-4863-993B-5F84A90A1799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859342D0-82AF-4863-993B-5F84A90A1799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF818C5-3103-47C0-AC5E-7901B14A718C}
+	EndGlobalSection
+EndGlobal
