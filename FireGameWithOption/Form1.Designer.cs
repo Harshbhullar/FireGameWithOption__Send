@@ -59,7 +59,7 @@
             this.groupBox1.Controls.Add(this.pbBullet);
             this.groupBox1.Controls.Add(this.Pistol);
             this.groupBox1.Controls.Add(this.pbTarget);
-            this.groupBox1.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
@@ -106,7 +106,7 @@
             this.groupBox2.Controls.Add(this.optnThird);
             this.groupBox2.Controls.Add(this.optnSecnd);
             this.groupBox2.Controls.Add(this.optnFirst);
-            this.groupBox2.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.Color.White;
             this.groupBox2.Location = new System.Drawing.Point(357, 10);
             this.groupBox2.Name = "groupBox2";
@@ -120,7 +120,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(114, 205);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(182, 25);
+            this.label3.Size = new System.Drawing.Size(218, 25);
             this.label3.TabIndex = 7;
             this.label3.Text = "Click to Choose Third";
             // 
@@ -129,7 +129,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(114, 129);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(201, 25);
+            this.label2.Size = new System.Drawing.Size(242, 25);
             this.label2.TabIndex = 6;
             this.label2.Text = "Click to Choose Second";
             // 
@@ -138,7 +138,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(114, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(176, 25);
+            this.label1.Size = new System.Drawing.Size(211, 25);
             this.label1.TabIndex = 5;
             this.label1.Text = "Click to Choose First";
             // 
@@ -167,7 +167,7 @@
             // 
             // optnFirst
             // 
-            this.optnFirst.Image = ((System.Drawing.Image)(resources.GetObject("optnFirst.Image")));
+            this.optnFirst.Image = global::FireGameWithOption.Properties.Resources.optn3;
             this.optnFirst.Location = new System.Drawing.Point(26, 31);
             this.optnFirst.Name = "optnFirst";
             this.optnFirst.Size = new System.Drawing.Size(82, 58);
@@ -178,7 +178,7 @@
             // 
             // start
             // 
-            this.start.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.start.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.start.Location = new System.Drawing.Point(12, 235);
             this.start.Name = "start";
             this.start.Size = new System.Drawing.Size(76, 45);
@@ -189,7 +189,7 @@
             // 
             // Bullet
             // 
-            this.Bullet.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Bullet.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bullet.Location = new System.Drawing.Point(94, 235);
             this.Bullet.Name = "Bullet";
             this.Bullet.Size = new System.Drawing.Size(103, 45);
@@ -200,7 +200,7 @@
             // 
             // Fire
             // 
-            this.Fire.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Fire.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Fire.Location = new System.Drawing.Point(216, 235);
             this.Fire.Name = "Fire";
             this.Fire.Size = new System.Drawing.Size(130, 45);
@@ -211,7 +211,7 @@
             // 
             // Retry
             // 
-            this.Retry.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Retry.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Retry.Location = new System.Drawing.Point(103, 298);
             this.Retry.Name = "Retry";
             this.Retry.Size = new System.Drawing.Size(147, 45);

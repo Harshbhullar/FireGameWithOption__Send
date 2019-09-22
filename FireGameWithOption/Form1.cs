@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace FireGameWithOption
 {
@@ -123,7 +124,7 @@ namespace FireGameWithOption
                     if (Rand_No == loop)
                     {
                         // generate the fire sound 
-                        System.Media.SoundPlayer player = new System.Media.SoundPlayer("option/fire.wav");
+                        SoundPlayer player = new SoundPlayer(Resource1.fire);
                         player.Play();
 
                         Count_Trigger++;
